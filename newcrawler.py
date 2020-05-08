@@ -39,7 +39,7 @@ csv_text = []
 
 ##### Input string ####################
 ##### type keyword without spacing ####
-keyword = "honda"
+keyword = ""
 
 ###### target URL ######
 url = "https://www.instagram.com/explore/tags/{}/".format(keyword)
